@@ -423,8 +423,8 @@
     "@types/vscode": "^1.90.0",
     "@types/which": "^3.0.3",
     "@vscode/test-web": "^0.0.51",
-    "esbuild": "^0.20.0",
-    "rollup": "^4.9.6",
+    "esbuild": "^0.25.0",
+    "rollup": "^4.53.2",
     "rollup-plugin-esbuild": "^6.1.1",
     "ts-node": "^10.9.2",
     "typescript": "^5.3.3"
